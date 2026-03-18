@@ -77,5 +77,5 @@ USE Set1_Bookstore;
 
 ## Author
 
-**Prem**  
+**SDS**  
 MySQL | Database Management | Practical Exam Prep
